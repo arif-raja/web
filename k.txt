@@ -12,4 +12,4 @@
 12. difference between on premise and cloud
 13. why we go for cloud instead of on premise
 14. set up SSH agent forwarding so that you do not have to copy the key every time you log in
-15. What Are Some of the Security Best Practices for Amazon EC2
+15. What Are Some of the Security Best Practices for Amazon 
