@@ -1,0 +1,15 @@
+1. difference between on premise and cloud
+2. why we go for cloud instead of on premise
+3. cloud computing
+4. Difference between IAAS, PAAS and SAAS
+5. different types of EC2 instances based on their costs
+6. basic types of cloud services
+7. Regions And Availability Zones In Amazon Ec2
+8. relation between the Availability Zone and Region?
+9. difference between stopping and terminating an EC2 instance?
+10. Key-Pairs in AWS
+11. Features Of The Amazon Ec2 Service
+12. difference between on premise and cloud
+13. why we go for cloud instead of on premise
+14. set up SSH agent forwarding so that you do not have to copy the key every time you log in
+15. What Are Some of the Security Best Practices for Amazon EC2
